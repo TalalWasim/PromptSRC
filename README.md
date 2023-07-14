@@ -1,4 +1,4 @@
-# Self-regulating Prompts: Foundational Model Adaptation without Forgetting
+# Self-regulating Prompts: Foundational Model Adaptation without Forgetting [ICCV 2023]
 
 
 
